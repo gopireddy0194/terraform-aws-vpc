@@ -1,0 +1,11 @@
+terraform-aws-vpc/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── vpc/
+│   ├── main.tf
+│   ├── variables.tf
+│   ├── outputs.tf
+│   ├── routes.tf
+│   ├── subnets.tf
+│   └── security_group.tf
